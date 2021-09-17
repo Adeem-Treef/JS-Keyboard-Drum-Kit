@@ -1,2 +1,2 @@
-# JS-Keyboard-Drum-Kit
+# Keyboard-Drum-Kit
 A basic JavaScript drum kit 
